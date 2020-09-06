@@ -1,0 +1,137 @@
+------ FORMAS FARMACÊUTICAS SÓLIDAS
+
+Adesivo - ADES
+Anel - ANEL
+Barra - BAR
+Bastão - BAST
+
+Cápsula
+  Cápsula Dura - CAP DURA
+  Cápsula Dura de Liberação Prolongada - CAP DURA LIB PROL
+  Cápsula Dura de Liberação Retardada - CAP DURA LIB RETARD
+  Cápsula Mole - CAP MOLE
+  Cápsula Mole de Liberação Prolongada - CAP MOLE LIB PROL
+  Cápsula Mole de Liberação Retardada - CAP MOLE LIB RETARD
+
+Comprimido
+  Comprimido - COM
+  Comprimido de Liberação Modificada - COM LIB MOD
+  Comprimido de Liberação Prolongada - COM LIB PROL
+  Comprimido Efervescente - COM EFEV
+  Comprimido Mastigável - COM MAST
+  Comprimido Orodispersível - COM ORODISP
+  Comprimido para Colutório - COM COLUT
+  Comprimido para Solução - COM SOL
+  Comprimido para Suspensão - COM SUS
+  Comprimido Revestido - COM REV
+  Comprimido Revestido de Liberação Prolongada - COM REV LIB PROL
+  Comprimido Revestido de Liberação Retardada - COM REV LIB RETARD
+
+Dispositivo Intra-uterino - DIU
+Filme - FIL
+Glóbulo - GLOB
+Goma de Mascar - GOMA
+
+Granulado 
+  Granulado - GRAN
+  Granulado Efervescente - GRAN EFEV
+  Granulado para Solução - GRAN SOL
+  Granulado para Suspensão - GRAN SUS
+  Granulado Revestido - GRAN REV
+  Granulado Revestido de Liberação Prolongada - GRAN REV LIB PROL
+  Granulado Revestido de Liberação Retardada - GRAN REV LIB RETARD
+
+Implante - IMPL
+
+Pastilha
+  Pastilha Dura - PAS DURA
+  Pastilha Gomosa - PAS GOM
+
+Pó
+  Pó - PO
+  Pó Aerossol - PO AER
+  Pó Efervescente - PO EFEV
+  Pó Liofilizado para Solução Injetável - PO LIOF SOL INJ
+  Pó Liofilizado para Suspensão Injetável - PO LIOF SUS INJ
+  Pó Liofilizado para Suspensão Injetável de Liberação Prolongada - PO LIOF SUS INJ LIB PROL
+  Pó para Colutório - PO COLUT
+  Pó para Solução - PO SOL
+  Pó para Solução Injetável - PO SOL INJ
+  Pó para Solução para Infusão - PO SOL INFUS
+  Pó para Suspensão - PO SUS
+  Pó para Suspensão Injetável - PO SUS INJ
+  Pó para Suspensão Injetável de Liberação Prolongada - PO SUS INJ LIB PROL
+
+Rasura - RAS
+Sabonete - SAB
+
+Supositório
+  Supositório - SUP
+  Óvulo - OVL
+
+Tablete - TABLE
+
+------ FORMAS FARMACÊUTICAS LÍQUIDAS
+
+Emulsão
+  Emulsão - EMU
+  Emulsão Aerossol - EMU AER
+  Emulsão Gotas - EMU GOT
+  Emulsão Injetável - EMU INJ
+  Emulsão para Infusão - EMU INFUS
+  Emulsão Spray - EMU SPR
+
+Esmalte - ESM
+Espuma - ESP
+
+Líquido
+  Líquido - LIQ
+  Óleo - OLE
+
+Sabonete Líquido - SAB LIQ
+
+Solução
+  Colutório - COLUT
+  Colutório Spray - COLUT SPR
+  Elixir - ELX
+  Solução - SOL
+  Solução Aerossol - SOL AER
+  Solução de Liberação Prolongada - SOL LIB PROL
+  Solução Gotas - SOL GOT
+  Solução Injetável - SOL INJ
+  Solução para Diluição - SOL DIL
+  Solução para Diluição Injetável - SOL DIL INJ
+  Solução para Diluição para Colutório - SOL DIL COLUT
+  Solução para Diluição para Infusão - SOL DIL INFUS
+  Solução para Infusão - SOL INFUS
+  Solução para Irrigação - SOL IRR
+  Solução Spray - SOL SPR
+
+Suspensão
+  Suspensão - SUS
+  Suspensão Aerossol - SUS AER
+  Suspensão de Liberação Prolongada - SUS LIB PROL
+  Suspensão de Liberação Retardada - SUS LIB RETARD
+  Suspensão Gotas - SUS GOT
+  Suspensão Injetável - SUS INJ
+  Suspensão Injetável de Liberação Prolongada - SUS INJ LIB PROL
+  Suspensão Spray - SUS SPR
+
+Xampu - XAMP
+Xarope - XPE
+
+
+------ FORMAS FARMACÊUTICAS SEMI-SÓLIDAS
+
+Creme - CREM
+Emplasto - EMPL
+Gel - GEL
+
+Pomada
+  Pomada - POM
+  Pasta - PAST
+
+
+------ FORMAS FARMACÊUTICAS GASOSAS
+
+Gás - GAS
